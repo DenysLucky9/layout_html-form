@@ -1,12 +1,10 @@
 /* styles go here */
-.form-field  {
+.form-field {
   display: block;
-}
-
-.groups {
-  margin-bottom: 20px;
-}
-
-.inputs {
   margin-bottom: 10px;
+}
+
+fieldset {
+  margin-bottom: 20px;
+  padding-bottom: 0;
 }
